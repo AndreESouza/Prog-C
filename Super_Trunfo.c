@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Variáveis da Carta 1
     char Estado1;
     char Codigo1[4];
@@ -43,7 +44,6 @@ int main() {
     printf("Número de Pontos Turisticos: ");
     scanf("%d", &Pontos1);
 
-
     // Entrada dos dados da Carta 2
     printf("\nCadastro da Carta 2:\n");
 
@@ -67,7 +67,6 @@ int main() {
 
     printf("Numero de Pontos Turisticos: ");
     scanf("%d", &Pontos2);
-
 
     // Exibição dos dados da Carta 1
     printf("\n==============================\n\n");
