@@ -69,7 +69,7 @@ int main() {
     scanf("%d", &Pontos2);
 
     // Exibição dos dados da Carta 1
-    printf("\n==============================\n\n");
+    printf("\n==================================================\n\n");
     printf("Carta 1:\n");
     printf("Estado: %c\n", Estado1);
     printf("Código: %s\n", Codigo1);
@@ -89,7 +89,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", PIB2);
     printf("Número de Pontos Turisticos: %d\n", Pontos2);
 
-    printf("\n==============================\n");
+    printf("\n==================================================\n");
 
     return 0;
 }
